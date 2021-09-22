@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-enabled-application
+  annotations:
+    github.com/project-slug: yan-saks/backstage-enabled-application
+spec:
+  type: other
+  lifecycle: unknown
+  owner: platform
