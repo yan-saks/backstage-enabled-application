@@ -2,7 +2,7 @@ site_name: 'backstage-enabled-application'
 
 nav:
   - Home: ../
-  - readme: ../
+  - readme: .
 
 plugins:
   - techdocs-core
