@@ -1,7 +1,7 @@
 site_name: 'backstage-enabled-application'
 
 nav:
-  - Home: 'index.md'
+  - Home: 'test.md'
   - test: 'test.md'
   - readme: '/../README.md'
   - readme: '/README.md'
