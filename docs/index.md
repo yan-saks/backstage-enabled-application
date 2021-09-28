@@ -2,4 +2,4 @@
 
 index
 
-../README.md
+[readme_test](../README.md)
