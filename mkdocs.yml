@@ -7,5 +7,4 @@ nav:
   - test: 'docs/test.md'
 
 plugins:
-  - same-dir
   - techdocs-core
