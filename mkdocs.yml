@@ -1,6 +1,5 @@
 site_name: 'backstage-enabled-application'
 docs_dir: '.'
-site_dir: '../site'
 
 nav:
   - Home: 'README.md'
